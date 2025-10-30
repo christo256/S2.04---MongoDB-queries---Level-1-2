@@ -1,6 +1,6 @@
-🧠 MongoDB Exercises – Restaurants Database
+# 🧠 MongoDB queries
 
-📄 Project Overview  
+## 📄 Project Overview  
 This repository contains MongoDB queries for exercises based on a Restaurants database.  
 All queries are consolidated in the file `queries.js`, and the dataset is stored in `restaurants.json`.
 
@@ -10,9 +10,11 @@ The exercises include:
 - Querying nested arrays and objects  
 - Comparison, logical, and regular expression operators  
 - Sorting and pagination of results  
-- Geo-spatial queries  
+- Geo-spatial queries
+  
+---
 
-🧱 Database Structure  
+## 🧱 Database Structure  
 Restaurants Database  
 
 Each document in the `Restaurants` collection has the following structure:  
